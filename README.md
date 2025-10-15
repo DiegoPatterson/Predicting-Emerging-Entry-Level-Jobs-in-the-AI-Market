@@ -1,6 +1,7 @@
 # Predicting-Emerging-Entry-Level-Jobs-in-the-AI-Market
 
 __Problem Statement__
+
 In the current Job market, many students and graduates worry about whether they could 
 get a job or not in the field that they studied. Some look at the incoming jobs and just begin to 
 lose hope, others spend time searching and getting denied without even knowing where they are 
@@ -17,6 +18,7 @@ current industry insights. Finally, the results will be formatted in a way that 
 skills and roles are most associated with further growth. 
 
 __Dataset Analysis__
+
 The dataset I have chosen to successfully predict future entry-level jobs and 
 qualifications is one from Kaggle, titled 
 “AI Job Market Trends” by Abhishek 
